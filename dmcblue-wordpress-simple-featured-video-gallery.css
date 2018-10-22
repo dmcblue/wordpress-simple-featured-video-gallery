@@ -1,0 +1,13 @@
+.dmcblue-video-gallery {
+	
+}
+
+.dmcblue-video-gallery .dmcblue-video-showcase {
+	
+}
+.dmcblue-video-gallery .dmcblue-video-showcase-gallery {
+	display: flex;
+}
+.dmcblue-video-gallery .dmcblue-video-showcase-gallery .dmcblue-video-showcase-gallery-item {
+	display: inline-block;
+}
