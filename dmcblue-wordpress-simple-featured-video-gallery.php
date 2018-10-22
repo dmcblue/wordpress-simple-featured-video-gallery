@@ -3,7 +3,7 @@
 Plugin Name: Simple Featured Video Gallery
 Plugin URI: https://github.com/dmcblue/wordpress-simple-featured-video-gallery
 Description: Simple viewer for Youtube videos
-Author: dmcblue@gmailc.om
+Author: dmcblue@gmail.com
 Version: 0.1.0
 
 */
