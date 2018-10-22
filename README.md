@@ -4,7 +4,7 @@ Simple Featured Video Gallery
 
 Simple way to display a set of featured Youtube videos.
 
-== Description ==
+## Description
 Displays a set of featured videos as a main viewer with a row of video preview images underneath.  The user can click the previews to change which video is in the viewer.
 
 ![Screenshot of the plugin gallery](screenshot.png)
@@ -18,5 +18,5 @@ Use:
 The `codes` attribute is a list of Youtube video codes separated by commas.
 
 
-== Installation ==
+## Installation 
 1. Install the .zip in the release section directly into WordPress.
