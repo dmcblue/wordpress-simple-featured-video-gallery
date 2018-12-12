@@ -35,7 +35,9 @@ class SimpleFeaturedVideoGallery {
         ob_start();
         ?>
             <div class="dmcblue-video-gallery">
-				<iframe class="dmcblue-video-showcase" width="560" height="315" src="https://www.youtube.com/embed/<?php echo reset($codes); ?>" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				<div class="dmcblue-video-showcase">
+					<iframe src="https://www.youtube.com/embed/<?php echo reset($codes); ?>" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				</div>
 				<div class="dmcblue-video-showcase-gallery">
 					<?php foreach($codes as $code): ?>
 					<div class="dmcblue-video-showcase-gallery-item" data-id="<?php echo $code; ?>" style="flex: <?php echo count($codes); ?>">
