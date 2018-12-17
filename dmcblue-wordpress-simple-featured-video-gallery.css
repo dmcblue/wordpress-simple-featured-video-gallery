@@ -20,4 +20,9 @@
 }
 .dmcblue-video-gallery .dmcblue-video-showcase-gallery .dmcblue-video-showcase-gallery-item {
 	display: inline-block;
+	min-width: 0;
+}
+.dmcblue-video-gallery .dmcblue-video-showcase-gallery .dmcblue-video-showcase-gallery-item img {
+	width: auto;
+	max-width: 100%;
 }
